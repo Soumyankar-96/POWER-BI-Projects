@@ -14,3 +14,9 @@ Task: Use charts to show proportion of people working in different departments.
 
 5.	Position Tier Analysis: different positions within a company often have different tiers/levels.
 Task: use chart/graph to represent the different position tiers within the company. 
+
+Insights
+- The hiring process involves more men than women
+- The most average salary offered by the company is between 60,000 - 100,000
+- Operations department have the most working professionals
+- The postion "c9" and "c5" have most people working on
